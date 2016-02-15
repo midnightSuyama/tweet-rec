@@ -1,0 +1,7 @@
+{
+  "name": "tweet-rec",
+  "dependencies": {
+    "photon": "~0.1.2-alpha",
+    "riot": "^2.3.15"
+  }
+}
