@@ -2,7 +2,7 @@
 
 Tweet recording player by electron
 
-<img src="https://raw.githubusercontent.com/midnightSuyama/tweet-rec/master/res/icon.png" width="128" height="128">
+<img src="https://raw.githubusercontent.com/midnightSuyama/tweet-rec/master/screenshot.png" width="320" height="455">
 
 ## Downloads
 
